@@ -2,9 +2,7 @@
 
 ## 1. Controller
 
-```
 ### 1) Role
-```
 
 - 서비스 로직을 가지고 있음
 - 그 동안 `app.rb`에서 작성했던 모든 내용이 `Controller`에 들어감
